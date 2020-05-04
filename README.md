@@ -5,7 +5,7 @@ Repository that will contain all the referred about design patterns implementati
 # General list of design patterns
 * ~~Factory~~
 * ~~Singleton~~
-* Builder
+* ~~Builder~~
 * Prototype
 * Adapter
 * Bridge
